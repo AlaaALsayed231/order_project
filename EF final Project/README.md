@@ -17,3 +17,5 @@ The system supports **CRUD operations**, **reporting**, and **analytics** to mak
 
 ### 🗄️ Database
 - SQL Server
+### 🗄️ Database
+![9cdc0e79-f658-495a-91c1-2f8c4acd40fe_removalai_preview](https://github.com/user-attachments/assets/a2e32419-b349-4a63-9eef-9e00aba303f4)
